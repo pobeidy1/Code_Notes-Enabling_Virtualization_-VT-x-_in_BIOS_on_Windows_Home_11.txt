@@ -1,0 +1,1 @@
+# Code_Notes-Enabling_Virtualization_-VT-x-_in_BIOS_on_Windows_Home_11.txt
